@@ -17,3 +17,10 @@ let form = document.getElementsByName('search')[0];
 
 // 5. first input of that form
 form.querySelector('input')
+
+
+console.log(table);
+console.log(document.querySelectorAll('#age-table label'));
+console.log(table.querySelector('td'));
+console.log(form);
+console.log(form.querySelector('input'));
